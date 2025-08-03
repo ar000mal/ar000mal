@@ -5,11 +5,8 @@
 <h2>𝙤𝙞𝙞, 𝙞’𝙢 𝙖𝙧𝙤𝙢𝙖𝙡 👾</h2>
 
 <p >
-  <span style="color:#ff5f5f;">full stack java dev in progress 💻</span><br/>
   trying to make machines do stuff so i don’t have to 🤖<br/>
 </p>
-
----
 
 <p >
   <i>currently learning how to chill 😵‍💫</i><br/>
