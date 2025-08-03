@@ -1,4 +1,4 @@
-<img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FtODN1cG5yY2xnb2dndjdmb2FzenNvMnQ4bG8ya3BkdDIzbHd5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkR9sIt5FFZ2AqCVJ9/giphy.gif>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FtODN1cG5yY2xnb2dndjdmb2FzenNvMnQ4bG8ya3BkdDIzbHd5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkR9sIt5FFZ2AqCVJ9/giphy.gif" alt="Cool GIF" width="1000px" />
 
 
 
