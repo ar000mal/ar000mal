@@ -1,3 +1,6 @@
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pjYnM4Yzh1YXhwbjZ1MmY1ejNwZnMwNWYzYWV6eTZodGJ0Y3phZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HI3szTa8RrW4FFgWz2/giphy.gif" alt="Header GIF" width="100%" />
+
+
 ## Hi there 👋
 
 <!--
