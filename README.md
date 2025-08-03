@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3pjYnM4Yzh1YXhwbjZ1MmY1ejNwZnMwNWYzYWV6eTZodGJ0Y3phZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/HI3szTa8RrW4FFgWz2/giphy.gif" alt="Header GIF" style="width: 100%; height: 200px; object-fit: cover;" />
+<img src=https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3FtODN1cG5yY2xnb2dndjdmb2FzenNvMnQ4bG8ya3BkdDIzbHd5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PkR9sIt5FFZ2AqCVJ9/giphy.gif>
 
 
 
