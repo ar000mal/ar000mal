@@ -6,9 +6,6 @@
 
 <p >
   trying to make machines do stuff so i don’t have to 🤖<br/>
-</p>
-
-<p >
   <i>currently learning how to chill 😵‍💫</i><br/>
   <i>hit me up if you want to build cool (or weird) stuff 🧠</i>
 </p>
