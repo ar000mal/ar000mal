@@ -7,12 +7,11 @@
 <p >
   <span style="color:#ff5f5f;">full stack java dev in progress 💻</span><br/>
   trying to make machines do stuff so i don’t have to 🤖<br/>
-  <span style="color:#ffa500;">part-time debugger, full-time overthinker ☕</span><br/>
 </p>
 
 ---
 
 <p >
-  <i>currently learning react, spring, and how to chill 😵‍💫</i><br/>
+  <i>currently learning how to chill 😵‍💫</i><br/>
   <i>hit me up if you want to build cool (or weird) stuff 🧠</i>
 </p>
