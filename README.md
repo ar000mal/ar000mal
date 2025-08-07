@@ -25,7 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="50" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Office_PowerPoint_%282018%E2%80%93present%29.svg" alt="PowerPoint Logo" width="50" />
 </p>
 
 
