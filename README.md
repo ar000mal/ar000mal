@@ -24,5 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powerpoint/powerpoint-original.svg" alt="HTML5" width="50" />
 </p>
 
