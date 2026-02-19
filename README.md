@@ -35,8 +35,10 @@
   <img src="https://nifi.apache.org/images/apache-nifi-logo.svg" alt="Apache NiFi" width="50" />
 
   <!-- Testing -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="50" />
-  <img src="https://raw.githubusercontent.com/mockito/mockito/main/doc/images/logo.png" alt="Mockito" width="70" />
+  <img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Mockito-78C257?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Bruno-FF6C37?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
 
   <!-- API & Tools -->
   <img src="https://www.vectorlogo.zone/logos/getbruno/getbruno-icon.svg" alt="Bruno API Client" width="50" />
