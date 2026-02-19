@@ -24,22 +24,23 @@
 
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" />
 
-  <!-- DevOps & Tools -->
+  <!-- DevOps & Streaming -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" alt="Kafka" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" alt="Apache NiFi" width="50" />
+  <img src="https://nifi.apache.org/images/apache-nifi-logo.svg" alt="Apache NiFi" width="50" />
 
   <!-- Testing -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/junit/junit-original.svg" alt="JUnit" width="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mockito/mockito-plain.svg" alt="Mockito" width="50" />
+  <img src="https://raw.githubusercontent.com/mockito/mockito/main/doc/images/logo.png" alt="Mockito" width="70" />
 
   <!-- API & Tools -->
-  <img src="https://img.shields.io/badge/REST-API-green?style=for-the-badge" alt="REST API" height="28"/>
-  <img src="https://img.shields.io/badge/Bruno-API%20Client-orange?style=for-the-badge" alt="Bruno" height="28"/>
+  <img src="https://www.vectorlogo.zone/logos/getbruno/getbruno-icon.svg" alt="Bruno API Client" width="50" />
+  <img src="https://img.shields.io/badge/REST-API-005571?style=flat&logo=fastapi&logoColor=white" alt="REST API" height="40"/>
 
   <!-- Design -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" />
